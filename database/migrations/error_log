@@ -1,0 +1,1 @@
+[22-Sep-2018 13:25:38 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/tdbangar/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 8

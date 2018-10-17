@@ -1,0 +1,20 @@
+#register-det {
+  background-color: #01579B;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.card {
+  padding: 30px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.control-label::after {
+  content: "*";
+  color: red;
+  font-size: 17px;
+}

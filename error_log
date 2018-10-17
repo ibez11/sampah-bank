@@ -1,0 +1,38 @@
+
+[19-Sep-2018 14:27:57 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17984 bytes) in /home/tdbangar/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[19-Sep-2018 14:28:27 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4496 bytes) in /home/tdbangar/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[19-Sep-2018 14:30:06 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4496 bytes) in /home/tdbangar/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[19-Sep-2018 14:30:53 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 17984 bytes) in /home/tdbangar/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[22-Sep-2018 17:28:31 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 17:28:55 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 17:43:40 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 17:44:10 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 17:49:00 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 18:04:15 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 18:06:26 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 18:06:36 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 18:06:42 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 18:13:41 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 18:13:59 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 18:14:35 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[22-Sep-2018 11:41:39 UTC] PHP Warning:  require_once(/home/tdbangar/public_html/public/index.php): failed to open stream: No such file or directory in /home/tdbangar/public_html/server.php on line 21
+[22-Sep-2018 11:41:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/tdbangar/public_html/public/index.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdbangar/public_html/server.php on line 21
+[22-Sep-2018 21:53:38 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:22:12 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:23:49 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:46:07 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:47:02 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:47:09 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:47:17 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:52:02 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on array in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:52:41 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on array in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:54:22 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 08:59:40 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 09:15:56 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 09:17:52 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 09:53:24 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[23-Sep-2018 11:18:54 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[25-Sep-2018 10:25:36 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[25-Sep-2018 10:28:02 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[25-Sep-2018 10:28:33 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140
+[25-Sep-2018 10:28:59 Asia/Jakarta] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/tdbangar/public_html/app/Http/Controllers/CustomerController.php on line 140

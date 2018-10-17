@@ -1,0 +1,190 @@
+h3.welcome-title {
+  font-weight: bold;
+  color: #D50000;
+}
+
+.img {
+  height: 300px;
+}
+
+@media screen and (max-width: 960px) {
+  .img {
+    height: 150px;
+  }
+}
+
+.img-rounded {
+  border: 1px solid #afafaf;
+  padding: 3px;
+  -webkit-box-shadow: 0px 0px 3px 0px black;
+          box-shadow: 0px 0px 3px 0px black;
+}
+
+.card {
+  font-size: 1em;
+  overflow: hidden;
+  padding: 0;
+  border: none;
+  border-radius: .28571429rem;
+  -webkit-box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+          box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+}
+
+.card .box > .icon {
+  text-align: center;
+  position: relative;
+}
+
+.card .box .space {
+  height: 30px;
+}
+
+.card .well {
+  min-height: 250px;
+  max-height: 250px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #D50000;
+  color: #fff;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.card .card-block {
+  font-size: 1em;
+  position: relative;
+  margin: 0;
+  padding: 1em;
+  border: none;
+  border-top: 1px solid rgba(34, 36, 38, 0.1);
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+#mainNav .navbar-brand {
+  color: #000 !important;
+}
+
+#mainNav .navbar-nav > li > a {
+  color: black !important;
+}
+
+#mainNav .navbar-nav > li > a:focus {
+  color: #333 !important;
+}
+
+.about {
+  position: relative;
+  z-index: 0;
+  background: url("/img/paper-1.jpeg");
+  color: #fff;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.about:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+.about h2,
+.about h3,
+.about p {
+  color: #fff !important;
+}
+
+.steps {
+  background-color: #D50000 !important;
+  color: #fff;
+}
+
+.media.servicesStyle {
+  display: block;
+}
+
+.media.servicesStyle .media-left {
+  display: block;
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+.media.servicesStyle .media-left .media-img {
+  border: 1px solid #fff;
+  padding: 25px 25px 25px 25px;
+  border-radius: 100PX;
+  display: inline-block;
+}
+
+.media.servicesStyle .media-body {
+  position: relative;
+  width: 100%;
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.benefits {
+  position: relative;
+  z-index: 0;
+  background: url("/img/plastic-2.jpeg");
+  color: #fff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.benefits:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+.benefits-students {
+  position: relative;
+  z-index: 0;
+  background: url("/img/paper-2.jpeg");
+  color: #fff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.benefits-students:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+
+.benefits-content {
+  padding: 50px 0;
+}
+
+.footer {
+  background: #D50000;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.footer p {
+  margin-bottom: 0px;
+}
+

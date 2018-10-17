@@ -1,0 +1,58 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.dropzone {
+  border: 2px dashed rgba(0, 0, 0, 0.3) !important;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+.dropzone span {
+  font-size: 24px;
+}
+
+.custom-combobox {
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+.custom-combobox .custom-combobox-input {
+  width: 95%;
+  height: 45px;
+  padding: 15px;
+}
+
+.custom-combobox .ui-button {
+  height: 45px;
+  width: 4%;
+  top: -1px;
+  left: -1px;
+}
+
+@media screen and (max-width: 768px) {
+  .main-menu {
+    left: -300px;
+    display: block;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    position: absolute;
+    z-index: 999;
+    min-width: 280px;
+    border-right: 1px solid #cfcfcf;
+  }
+}
+
+.footer {
+  background: #D50000;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.footer p {
+  margin-bottom: 0px;
+}
+

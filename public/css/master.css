@@ -1,0 +1,72 @@
+body {
+  height: 100%;
+  font-family: 'Mukta Mahee', sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #ECEFF1;
+}
+
+/* navbar stylesheet */
+
+.navbar-default {
+  position: relative;
+  background-color: #607D8B;
+  border-radius: 0;
+  border: none;
+  height: 80px;
+  margin-bottom: 0;
+}
+
+.navbar-default .container .navbar-header {
+  margin-top: 15px;
+}
+
+.navbar-default .container .navbar-collapse {
+  margin-top: 15px;
+}
+
+.navbar-default .container .navbar-nav {
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+}
+
+.navbar-default .container .navbar-nav li {
+  margin-left: 10px;
+  border-radius: 5px;
+}
+
+.navbar-default .container .navbar-nav li a{
+    color: #ECEFF1;
+}
+.navbar-default .container .navbar-nav a:hover {
+  color: #607D8B;
+  border-radius: 5px;
+  background-color: #ECEFF1;
+}
+.navbar-default .container .navbar-nav .active {
+  color: #607D8B;
+  border-radius: 5px;
+  background-color: #ECEFF1;
+}
+/* login/register navbar */
+#login-section .dropdown-menu {
+  background-color: #607D8B;
+  padding: 20px 20px;
+}
+/* header */
+header {
+
+}
+/* register */
+#register form {
+  border: 1px solid #607D8B;
+  padding: 40px;
+}
+
+#border {
+  margin-top: 50px;
+  padding: 50px 50px;
+  border: 1px solid #607D8B;
+}

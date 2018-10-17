@@ -1,0 +1,69 @@
+html,
+body,
+div,
+button,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: 'Lato', serif;
+}
+
+#mission h1,
+#mission h2,
+#mission h3,
+#mission p {
+  color: #fff;
+}
+
+#features {
+  background: url('{{getStatic(/img/plastic-1.jpeg}}');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  display: block;
+  z-index: 0;
+}
+
+@media screen and (min-width: 1400px) {
+  #features {
+    background-size: 100% auto;
+  }
+}
+
+#features h1,
+#features h2,
+#features h3,
+#features p {
+  color: #fff;
+}
+
+#features p {
+  font-weight: 100;
+}
+
+#features::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin-top: -100px;
+  background: linear-gradient(to right bottom, #333, #222 60%);
+  opacity: 0.9;
+  z-index: -1;
+}
+
+#features .section-heading {
+  margin-bottom: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+  #features {
+    background-size: auto 100%;
+  }
+}
