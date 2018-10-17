@@ -1,0 +1,5 @@
+1. Report export ke PDF atau Microsoft.
+2. Paginations belum selesai.
+3. Render Image terlalu besar tidak di kompress.
+4. TopUp belum ada.
+5. Membuat Marchine.
